@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @T4TVSeries1
+# Subscribe YouTube Channel For Amazing Bot @T4TVSeries1
+# Ask Doubt on telegram https://t.me/T4TVSeries1
 
 
 from __future__ import unicode_literals
