@@ -217,7 +217,7 @@ async def index_files_to_db(lst_msg_id, chat, msg, bot):
                 elif not message.media:
                     no_media += 1
                     continue
-                elif message.media not in [enums.MessageMediaType.DOCUMENT]:
+                elif message.media not in [enums.MessageMediaType.VIDEO, enums.MessageMediaType.AUDIO, enums.MessageMediaType.DOCUMENT]:
                     unsupported += 1
                     continue
 
